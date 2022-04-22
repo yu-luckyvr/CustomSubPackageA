@@ -1,0 +1,12 @@
+{
+	"name":"com.luckyvr.custom_subpackage_a",
+	"displayName":"CustomSubPackageA",
+	"version":"0.0.1",
+	"unity":"2020.3",
+	"author": {
+    "name": "YuGao",
+    "email": "yu@getluckyvr.com",
+    "url": "https://www.unity3d.com"
+  	},
+	"description":"test addressable delivery inside of packagemanager"
+}
