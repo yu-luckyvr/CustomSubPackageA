@@ -1,18 +1,15 @@
 {
   "name": "com.luckyvr.custom_subpackage_a",
   "displayName": "CustomSubPackageA",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "unity": "2020.3",
   "author": {
     "name": "YuGao",
     "email": "yu@getluckyvr.com",
     "url": "https://www.unity3d.com"
   },
-  "description": "test addressable delivery inside of packagemanager\nasdf",
+  "description": "test addressable delivery inside of packagemanager\nadd compiled",
   "type": "tool",
-  "gitDependencies": {
-    "com.luckyvr.custom_subpackage_b": "https://github.com/yu-luckyvr/CustomSubPackageB.git"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/yu-luckyvr/CustomSubPackageA.git"
