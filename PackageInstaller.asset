@@ -12,4 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5f010acffeb775140a421b3e09d761d1, type: 3}
   m_Name: PackageInstaller
   m_EditorClassIdentifier: 
-  originalPath: 
+  bundlePath: AssetBundles~
+  bundleCatalog: catalog_SubA.json
