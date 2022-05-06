@@ -8,6 +8,9 @@
     "email": "yu@getluckyvr.com",
     "url": "https://www.unity3d.com"
   },
+  "publishConfig":{
+      "registry": "https://npm.pkg.github.com/@yu-luckyvr"
+  },
   "description": "test addressable delivery inside of packagemanager\nadd compiled",
   "type": "tool",
   "repository": {
